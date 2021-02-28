@@ -1,0 +1,22 @@
+{
+  "name": "practice-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svperstarz/practice-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svperstarz/practice-nodejs/issues"
+  },
+  "homepage": "https://github.com/svperstarz/practice-nodejs#readme",
+  "dependencies": {
+    "mocha": "^8.3.0"
+  }
+}
